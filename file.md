@@ -1,7 +1,7 @@
 ## this file holds some information
-1. My name
-2. My address
-3. My number
+-My name
+-My address
+-My number
 
 -----
 
